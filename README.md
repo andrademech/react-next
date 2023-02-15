@@ -16,6 +16,7 @@ On your terminal, run the following command:
 
 In the project directory, you can run:
 
+### `yarn install`
 ### `yarn start`
 
 ## Technologies used
